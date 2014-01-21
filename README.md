@@ -41,7 +41,7 @@ Top level docs which are not version specific are held in &lt;entity/code-repo-n
 Licensing
 ---------
 
-The maven-test-command-plugin-documentation is covered by "[The Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)":
+_gh-pages-publishing_ is covered by "[The Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)":
 
     Copyright 2013, The Sporting Exchange Limited
     
